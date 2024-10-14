@@ -1,0 +1,9 @@
+POST /api_root/Post/ HTTP/1.1
+Host: 127.0.0.1:8000
+User-Agent: curl/8.9.1
+Transfer-Encoding: chunked
+Authorization: JWT b181ce4155b7413ebd1d86f1379151a7e035f8bd
+Accept: application/json
+Content-Type: multipart/form-data; boundary=------------------------5ua9fssJxSRLroZOJ24pha
+Expect: 100-continue
+
